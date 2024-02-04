@@ -4,4 +4,8 @@
 
 Это аукцион вещей, в которые никто не верил
 
-[🦐 ](https://github.com/mashkay/ono-tebe-nado)
+* [ссылка на репозиторий](https://github.com/mashkay/ono-tebe-nado "я ссылка на репозиторий")
+
+* https://github.com/mashkay/ono-tebe-nado
+
+* [🦐 ](https://github.com/mashkay/ono-tebe-nado "и я тоже ссылка на репозиторий")
