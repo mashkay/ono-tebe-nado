@@ -321,3 +321,7 @@
   list-style-type: none;
   justify-self: end;
 }
+
+.footer__social-list-item {
+  width: 48px;
+}
