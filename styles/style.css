@@ -63,12 +63,12 @@
   display: flex;
   justify-content: flex-end;
   padding: 7px 30px 0 0;
-  line-height: 1.34;
 }
 
 .address {
   font-style: normal;
   white-space: nowrap;
+  line-height: 1.35;
 }
 
 .cover {
@@ -76,7 +76,6 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 757px;
 }
 
 .cover__text {
@@ -96,21 +95,21 @@
   flex-direction: column;
   gap: 20px;
   letter-spacing: 30px;
-  line-height: 1.15;
+  line-height: 1;
+  padding-bottom: 135px;
 }
 
 .aligned-text {
-  text-align: start;
+  text-align: left;
+  line-height: 1.15;
 }
 
 .aligned-text_center {
   text-align: center;
-  line-height: 1;
 }
 
 .aligned-text_right {
   text-align: right;
-  line-height: 1;
 }
 
 .cover__letter-spacing-extended {
@@ -158,7 +157,6 @@
   text-align: start;
   font-size: 40px;
   font-weight: 700;
-  line-height: normal;
   text-transform: uppercase;
   padding-left: 40px;
   padding-bottom: 27px;
@@ -293,10 +291,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   font-size: 18px;
-}
-
-.footer .address {
-  line-height: 24.3px;
 }
 
 .footer__menu {
