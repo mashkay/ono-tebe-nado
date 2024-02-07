@@ -25,7 +25,6 @@
 
 .header__links-list {
   padding: 0;
-
   display: flex;
   flex-direction: row;
   list-style-type: circle;
