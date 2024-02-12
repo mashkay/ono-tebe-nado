@@ -165,14 +165,6 @@
   margin-bottom: 30px;
 }
 
-.lots__card-list {
-  list-style-type: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 25px;
-  margin-bottom: 30px;
-}
-
 .lots__card-list-item {
   width: var(--card-width);
   min-height: 563px;
